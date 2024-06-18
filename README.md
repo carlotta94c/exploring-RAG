@@ -38,3 +38,8 @@ Click the button to launch this repository in GitHub Codespaces.
 [![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=816701626&skip_quickstart=true)
 
  This opens a new browser tab with setup taking a few minutes to complete. Once ready, you should see a Visual Studio Code editor in your browser tab, with a terminal open. You can also open your Codespaces from within your Visual Studio Code desktop application.
+
+ ## Useful resources
+ - Explore an e-2-e production ready RAG workflow for the Contoso Retail dataset in the [contoso-chat sample](https://github.com/Azure-Samples/contoso-chat/tree/main).
+ - Learn more about the RAG pattern with Azure AI Search in the [official documentation](https://docs.microsoft.com/azure/search/retrieval-augmented-generation-overview) on Microsoft Learn.
+ - Get started with Prompty by navigating the [official guide](https://prompty.ai).
