@@ -25,8 +25,8 @@ To get started with this sample, you will need:
 * [Access to Azure OpenAI](https://learn.microsoft.com/legal/cognitive-services/openai/limited-access) - submit form to request access.
 
 Also, you'll need to provision the following Azure resources:
-* An [Azure AI Search](https://docs.microsoft.com/azure/search/search-create-service-portal) service.
-* An [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?pivots=web-portal) resource and two model deployments:
+* An [Azure AI Search](https://docs.microsoft.com/azure/search/search-create-service-portal?WT.mc_id=academic-141259-cacaste) service.
+* An [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?pivots=web-portal&WT.mc_id=academic-141259-cacaste) resource and two model deployments:
     - name: `embedding-ada`, type: `text-embedding-ada-002`, version: `default`
     - name: `gpt-4-turbo`, type: `gpt-4`, version: `turbo-2024-04-09`
 
@@ -41,5 +41,5 @@ Click the button to launch this repository in GitHub Codespaces.
 
  ## Useful resources
  - Explore an e-2-e production ready RAG workflow for the Contoso Retail dataset in the [contoso-chat sample](https://github.com/Azure-Samples/contoso-chat/tree/main).
- - Learn more about the RAG pattern with Azure AI Search in the [official documentation](https://docs.microsoft.com/azure/search/retrieval-augmented-generation-overview) on Microsoft Learn.
- - Get started with Prompty by navigating the [official guide](https://prompty.ai).
+ - Learn more about the RAG pattern with Azure AI Search in the [official documentation](https://docs.microsoft.com/azure/search/retrieval-augmented-generation-overview?WT.mc_id=academic-141259-cacaste) on Microsoft Learn.
+ - Get started with Prompty by navigating the [official guide](https://aka.ms/prompty-doc).
