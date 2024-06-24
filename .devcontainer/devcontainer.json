@@ -25,7 +25,7 @@
 				"charliermarsh.ruff",
 				"ms-python.black-formatter",
 				"ms-toolsai.jupyter",
-				"prompty"
+				"ms-toolsai.prompty"
 			]
 		}
 	},
